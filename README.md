@@ -1,6 +1,6 @@
 # 深度学习微专业
-## 课程笔记
 
+## 课程学习
 ### 课程1：神经网络和深度学习
 - 学习目标：
   - 了解推动深度学习的主要技术趋势
@@ -9,12 +9,12 @@
   - 理解神经网络架构中的关键参数
 
 - 编程作业：
-  - Week 2 - Logistic Regression with a Neural Network mindset
+  - Week 2 - [Logistic Regression with a Neural Network mindset](/My%20Assignments/1-Neural%20Networks%20and%20Deep%20Learning/Week2/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v4.ipynb)
   - Week 3 - Planar data classification with one hidden layer
   - Week 4 - Building your Deep Neural Network: Step by Step
   - Week 4 - Deep Neural Network for Image Classification: Application
   
-### 课程2：改进深度神经网络：超参数调整，正则化和优化
+### 课程2：改进深度神经网络：超参数调整、正则化和优化
 - 学习目标：
   - 了解构建深度学习应用程序的行业最佳实践。
   - 能够有效地使用常见的神经网络“技巧”，包括初始化，L2和丢失正则化，批量归一化，梯度检查，
@@ -47,8 +47,8 @@
   - 能够将这些算法应用于各种图像，视频和其他2D或3D数据。
 
 - 编程作业：
-  - Week 1 - Convolution model Step by Step
-  - Week 1 - Convolution model Application
+  - Week 1 - [Convolution model Step by Step](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week1/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
+  - Week 1 - [Convolution model Application](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week1/Convolution%20model%20-%20Application%20-%20v1.ipynb)
   - Week 2 - Keras Tutorial Happy House
   - Week 2 - Residual Networks
   - Week 3 - Autonomous driving application - Car Detection
@@ -81,5 +81,12 @@
 - 8 - [FaceNet](/Papers/FaceNet.pdf)
 - 9 - [Neural Style Transfer](/Papers/Neural_style_transfer.pdf)
  
- 
+ ## 其他笔记
+ - 优美的课程笔记 [@Tess Ferrandez](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
+ - 课程总结 @Mahmoud Badry
+   - 1-[Neural Networks and Deep Learning](https://github.com/mbadry1/DeepLearning.ai-Summary/blob/master/1-%20Neural%20Networks%20and%20Deep%20Learning/Readme.md)
+   - 2-[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/mbadry1/DeepLearning.ai-Summary/blob/master/2-%20Improving%20Deep%20Neural%20Networks/Readme.md)
+   - 3-[Structuring Machine Learning Projects](https://github.com/mbadry1/DeepLearning.ai-Summary/blob/master/3-%20Structuring%20Machine%20Learning%20Projects/Readme.md)
+   - 4-[Convolutional Neural Networks](https://github.com/mbadry1/DeepLearning.ai-Summary/blob/master/4-%20Convolutional%20Neural%20Networks/Readme.md)
+   - 5-[Sequence Models](https://github.com/mbadry1/DeepLearning.ai-Summary/tree/master/5-%20Sequence%20Models)
  
