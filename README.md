@@ -8,7 +8,7 @@
   - 知道如何高效地（**向量化**）实现神经网络
   - 理解神经网络架构中的关键参数
 
-- 编程作业：
+- 我的编程作业：
   - Week 2 - [Logistic Regression with a Neural Network mindset](/My%20Assignments/1-Neural%20Networks%20and%20Deep%20Learning/Week2/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v4.ipynb)
   - Week 3 - Planar data classification with one hidden layer
   - Week 4 - Building your Deep Neural Network: Step by Step
@@ -22,7 +22,7 @@
   - 了解深度学习时代的最佳实践方法，包括：如何设置**训练/开发/测试集**，如何分析**偏差/方差**。
   - 能够在**TensorFlow**中实现神经网络。
 
-- 编程作业：
+- 我的编程作业：
   - Week 1 - Initialization
   - Week 1 - Regularization
   - Week 1 - Gradient Checking
@@ -36,7 +36,7 @@
   - 了解配置复杂机器学习的方法，例如如何解决训练集与测试集不匹配问题，如何达到甚至超越人类的表现
   - 了解如何应用**端到端学习**、**迁移学习**以及**多任务学习**
 
-- 编程作业：无
+- 我的编程作业：无
 
   
 ### 课程4：卷积神经网络
@@ -46,10 +46,10 @@
   - 了解如何利用**神经风格转换**来创造艺术作品。
   - 能够将这些算法应用于各种图像、视频以及其他2D或3D数据。
 
-- 编程作业：
+- 我的编程作业：
   - Week 1 - [Convolution model Step by Step](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week1/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
   - Week 1 - [Convolution model Application](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week1/Convolution%20model%20-%20Application%20-%20v1.ipynb)
-  - Week 2 - Keras Tutorial Happy House
+  - Week 2 - [Keras Tutorial Happy House](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week2/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
   - Week 2 - Residual Networks
   - Week 3 - Autonomous driving application - Car Detection
   - Week 4 - Face Recognition for Happy House
@@ -61,7 +61,7 @@
   - 能够将序列模型应用于自然语言问题，包括**文本合成**。
   - 能够将序列模型应用于音频应用程序，包括**语音识别**和**音乐合成**。
 
-- 编程作业：
+- 我的编程作业：
   - Week1 - Building a Recurrent Neural Network
   - Week1 - Character level Dinosaur Name generation
   - Week1 - Music Generation
