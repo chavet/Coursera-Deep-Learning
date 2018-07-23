@@ -9,7 +9,7 @@
   - 理解神经网络架构中的关键参数
 
 - 我的编程作业：
-  - Week 2 - [Logistic Regression with a Neural Network mindset](/My%20Assignments/1-Neural%20Networks%20and%20Deep%20Learning/Week2/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v4.ipynb)
+  - Week 2 - [Logistic Regression with a Neural Network mindset](/My%20Assignments/1-Neural%20Networks%20and%20Deep%20Learning/Week2/Logistic%20Regression%20as%20a%20Neural%20Network/)
   - Week 3 - Planar data classification with one hidden layer
   - Week 4 - Building your Deep Neural Network: Step by Step
   - Week 4 - Deep Neural Network for Image Classification: Application
@@ -27,7 +27,7 @@
   - Week 1 - Regularization
   - Week 1 - Gradient Checking
   - Week 2 - Optimization Methods
-  - Week 3 - TensorFlow Tutorial
+  - Week 3 - [TensorFlow Tutorial](/My%20Assignments/2-Improving%20Deep%20Neural%20Networks/Week3/TensorFlow%20Tutorial)
   
 ### 课程3：构建机器学习项目
 - 学习目标：
@@ -49,11 +49,11 @@
 - 我的编程作业：
   - Week 1 - [Convolution model Step by Step](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week1/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
   - Week 1 - [Convolution model Application](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week1/Convolution%20model%20-%20Application%20-%20v1.ipynb)
-  - Week 2 - [Keras Tutorial Happy House](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week2/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
-  - Week 2 - Residual Networks
-  - Week 3 - Autonomous driving application - Car Detection
-  - Week 4 - Face Recognition for Happy House
-  - Week 4 - Art Generation with Neural Style transfer
+  - Week 2 - [Keras Tutorial Happy House](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week2/KerasTutorial)
+  - Week 2 - [Residual Networks](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week2/ResNets)
+  - Week 3 - [Autonomous driving application - Car Detection](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week3/Car%20detection%20for%20Autonomous%20Driving)
+  - Week 4 - [Face Recognition for Happy House](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week4/Face%20Recognition)
+  - Week 4 - [Art Generation with Neural Style transfer](/My%20Assignments/4-Convolutional%20Neural%20Networks/Week4/Neural%20Style%20Transfer)
   
 ### 课程5：序列模型
 - 学习目标：
